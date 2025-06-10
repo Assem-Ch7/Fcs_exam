@@ -1,0 +1,5 @@
+print("python => scripting language (used to write scripts => instructions used for running processes and interacting with memory")
+print('Hello World!')
+print(10, 'integer')
+print(10.1, 'double')
+print (True, False, 'boolean')
